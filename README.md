@@ -3,7 +3,6 @@
 <p><em>Backend Developer from Egypt 🇪🇬</em></p>
 
 [![Linkedin: shahd-elmnyar](https://img.shields.io/badge/-shahd--elmnyar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-elmnyar-6ba009266/)
-
 [![GitHub Shahd-Elmnyar](https://img.shields.io/github/followers/Shahd-Elmnyar?label=follow&style=social)](https://github.com/Shahd-Elmnyar)
 
 
