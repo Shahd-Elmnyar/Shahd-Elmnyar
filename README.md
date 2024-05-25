@@ -13,7 +13,7 @@ const shahood = {
   pronouns: "he" | "him",
   code: [PHP, Laravel, SQL, HTML, CSS, JavaScript],
   tools: [MySQL, Git, GitHub, Bootstrap, Composer],
-  architecture: ["monolithic", "MVC", "REST API"],
+  architecture: ["MVC", "REST API"],
   techCommunities: {
                         member: "Laravel Egypt",
                         contributor: "Open Source Projects"
