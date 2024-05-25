@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Backend Developer from Egypt 🇪🇬</em></p>
 
-[![Linkedin: shahd-elmnyar](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahd-elmnyar/)](https://www.linkedin.com/in/shahd-elmnyar/)
+[![Linkedin: shahd-elmnyar](https://img.shields.io/badge/-shahd-elmnyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahd-elmnyar/)](https://www.linkedin.com/in/shahd-elmnyar/)
 [![GitHub Shahd-Elmnyar](https://img.shields.io/github/followers/Shahd-Elmnyar?label=follow&style=social)](https://github.com/Shahd-Elmnyar)
 
 
