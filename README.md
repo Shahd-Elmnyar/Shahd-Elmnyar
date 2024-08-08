@@ -11,7 +11,7 @@
 ```php
 const shahood = {
   pronouns: "he" | "him",
-  code: [PHP , Laravel , SQL , HTML , CSS , JavaScript],
+  code: [PHP , Laravel , SQL , HTML , CSS , Bootstrap , JavaScript],
   tools: [MySQL , PostgreSQL ,SQL Server , Git , GitHub , Bootstrap , Composer , Postman ],
   architecture: ["MVC", "REST API"],
   techCommunities: {
