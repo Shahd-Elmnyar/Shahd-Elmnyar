@@ -14,10 +14,7 @@ const shahood = {
   code: [PHP , Laravel , SQL , HTML , CSS , Bootstrap , JavaScript],
   tools: [MySQL , PostgreSQL ,SQL Server , Git , GitHub , Bootstrap , Composer , Postman ],
   architecture: ["MVC", "REST API"],
-  techCommunities: {
-                        member: "Laravel Egypt",
-                        contributor: "Open Source Projects"
-                      },
+  
   challenge: "I am currently enhancing my skills with advanced Laravel features and contributing to open-source projects"
 }
 ```
